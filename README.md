@@ -43,6 +43,7 @@ My objective is to build career in an organization which can provide me with the
 <img src="https://skillicons.dev/icons?i=nodejs,nextjs,expressjs"> <br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"> <br/>
 <img src="https://skillicons.dev/icons?i=git,github"> <br/>
+<img src="https://skillicons.dev/icons?i=linux,linux"> <br/>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
