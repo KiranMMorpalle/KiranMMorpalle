@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KiranMMorpalle
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Html, Css, JavaScript
+- 🌱 I’m currently learning Html, Css, JavaScript.
 - 💞️ I’m looking to collaborate on GitHub/LinkedIn.
 - 📫 How to reach me :
 - Email    : kiranmorpalle2022@gmail.com 
