@@ -56,3 +56,4 @@ My objective is to build career in an organization which can provide me with the
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranmmorpalle&show_icons=true&locale=en" alt="kiranmmorpalle" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranmmorpalle&" alt="kiranmmorpalle" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranmmorpalle&" alt="kiranmmorpalle" /></p>
