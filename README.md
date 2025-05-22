@@ -56,4 +56,52 @@ My objective is to build career in an organization which can provide me with the
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranmmorpalle&show_icons=true&locale=en" alt="kiranmmorpalle" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranmmorpalle&" alt="kiranmmorpalle" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranmmorpalle&" alt="kiranmmorpalle" /></p>
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhaib3100&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
+
+
+<!--Contact Section--> 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:suhaibking310@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="suhaibking310@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/Suhaib_King" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="Suhaib" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/suhaib_s_z" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="suhaib_s_z" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/Suhaib3100" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Suhaib3100" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/suhaib-sz" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+</div>
+<br/>
+
+<!--Buy me a coffee-->
+<div align="center">
+<a href="https://buymeacoffee.com/suhaibking7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/suhaib3100/suhaib3100/output/snake.svg" alt="Snake animation" />
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
