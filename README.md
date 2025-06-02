@@ -98,10 +98,11 @@ My objective is to build career in an organization which can provide me with the
 </div>
 -->
 <br clear="both">
-
+<!--
 <img src="https://raw.githubusercontent.com/KiranMMorpalle/KiranMMorpalle/output/snake.svg" alt="Snake animation" />
 
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+-->
