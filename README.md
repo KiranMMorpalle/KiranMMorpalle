@@ -82,7 +82,7 @@ My objective is to build career in an organization which can provide me with the
 </a>
 -->
 <a href="https://www.githubcom/KiranMMorpalle" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Suhaib3100" style="margin-bottom: 5px;" />
+<img src="./github.png" width=50 height=50 alt="KiranMMorpalle" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/kiran-madhav-morpalle" target="_blank">
