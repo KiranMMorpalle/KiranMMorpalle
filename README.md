@@ -58,7 +58,7 @@ My objective is to build career in an organization which can provide me with the
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranmmorpalle&" alt="kiranmmorpalle" /></p>
 
 
-<!--Contribution Graph-->
+<!--Contribution Graph
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiranMMorpalle &bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
@@ -101,8 +101,5 @@ My objective is to build career in an organization which can provide me with the
 <!--
 <img src="https://raw.githubusercontent.com/KiranMMorpalle/KiranMMorpalle/output/snake.svg" alt="Snake animation" />
 
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+-->
 -->
