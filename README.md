@@ -72,6 +72,11 @@ My objective is to build career in an organization which can provide me with the
   
 <a href="mailto:kiranmorpalle2022@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="kiranmorpalle2022@gmail.com" style="margin-bottom: 5px;" />
+
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/kiran-madhav-morpalle/)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40"/>](mailto:kiranmorpalle2022@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40"/>](https://www.githubcom/KiranMMorpalle)
+
 </a>
 <!--
 <a href="https://x.com/Suhaib_King" target="_blank">
