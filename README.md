@@ -64,6 +64,13 @@ My objective is to build career in an organization which can provide me with the
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiranMMorpalle &bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KiranMMorpalle&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranMMorpalle&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranMMorpalle&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 
 <!--Contact Section--> 
