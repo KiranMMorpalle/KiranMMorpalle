@@ -72,5 +72,5 @@
   <img src="https://raw.githubusercontent.com/KiranMMorpalle/KiranMMorpalle/output/snake.svg" alt="Snake animation" />
 </p>
 
+<p align="center">✨ Let's <strong>create</strong> 🎨, <strong>innovate</strong> 💡, and <strong>inspire</strong> 🌟 together! 🚀</p>
 
-<p align="center">Let's create, innovate, and inspire together!</p>
