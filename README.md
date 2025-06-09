@@ -46,8 +46,7 @@
 
 ---
 
-<!-- Contribution Graph -->
-<h2 align="center">📈 Contribution Graph 📈</h2>
+## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiranMMorpalle&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" 
     style="border-radius: 15px;"
