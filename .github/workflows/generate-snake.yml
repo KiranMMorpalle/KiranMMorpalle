@@ -1,4 +1,6 @@
 name: Generate Snake Animation1
+name: Create output directory
+run: mkdir -p output
 
 on:
   schedule:
