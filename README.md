@@ -29,6 +29,21 @@
 <img src="https://skillicons.dev/icons?i=linux"> <br/> 
 
 ---
+
+### 🚀 Competitive Programming
+
+- 🧠 [LeetCode](https://leetcode.com/your-username/) – Solved 500+ problems (Medium & Hard)
+- 🔍 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/your-user-id/profile) – Regular contributor
+- ⚔️ [Codeforces](https://codeforces.com/profile/your-id) – Specialist (1200+)
+
+---
+<p align="center">
+  <img src="https://img.shields.io/github/followers/KiranMMorpalle?label=Follow&style=social" />
+  <img src="https://img.shields.io/badge/MERN-FullStack-blue?logo=javascript" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?logo=github" />
+  <img src="https://img.shields.io/badge/LeetCode-Top%2050%25-orange?logo=leetcode" />
+</p>
+
 ## 📌 Featured Projects
 
 - 🚀 [Awesome Portfolio Website](https://github.com/KiranMMorpalle/portfolio) – A modern personal portfolio using React & Tailwind.
