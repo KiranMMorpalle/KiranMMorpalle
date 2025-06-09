@@ -66,7 +66,6 @@
 <!-- <a href="https://twitter.com/yourhandle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="twitter" /></a> -->
 ---
 
-<img src="https://raw.githubusercontent.com/KiranMMorpalle/KiranMMorpalle/output/snake.svg" alt="Snake animation" />
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
