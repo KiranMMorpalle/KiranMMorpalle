@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **Open Source, Scalable Web Apps & Real-World Projects**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Data Structures, or FAANG Prep**
 - 📫 How to reach me:
-    - Email    : kiranmmorpalle@gmail.com
+    - Email    : kiranmmorpalle2022@gmail.com
     - GitHub   : https://github.com/KiranMMorpalle
     - LinkedIn : https://www.linkedin.com/in/kiran-madhav-morpalle-2b2719212/
 - 📄 Know about my experiences: [My Resume](#) <!-- Replace with actual resume link -->
