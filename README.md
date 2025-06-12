@@ -32,7 +32,7 @@
 
 ### 🚀 Competitive Programming
 
-- 👨‍💻 [TUF+](https://takeuforward.org/plus/profile/Kiran07052021) – Solved 100+ problems (Medium & Hard)
+- 👨‍💻 [TUF+](https://takeuforward.org/plus/profile/Kiran07052021) (https://takeuforward.org/profile/Kiran07052021/) – Solved 100+ problems (Medium & Hard)
 - 🧠 [LeetCode](https://leetcode.com/u/KiranMMorpalle/) – Solved 100+ problems (Medium & Hard)
 - 🔍 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/your-user-id/profile) – Regular contributor
 - ⚔️ [Codeforces](https://codeforces.com/profile/your-id) – Specialist (1200+)
