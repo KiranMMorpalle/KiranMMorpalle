@@ -56,7 +56,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KiranMMorpalle&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranMMorpalle&theme=radical" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranMMorpalle&theme=radical" alt="GitHub Streak" /> -->
+  <img src="https://streak-stats.demolab.com/?user=KiranMMorpalle&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranMMorpalle&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
