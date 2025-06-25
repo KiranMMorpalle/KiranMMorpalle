@@ -62,6 +62,15 @@
 </p>
 
 ---
+<!-- ## 🏆 Achievements & Certifications
+
+- 🥇 **Certified JavaScript Developer** – by XYZ Academy, 2025  
+- 🏅 **Top 10 Finalist** – CodeHunt Hackathon 2024 (out of 5,000+ participants)  
+- 📜 **AWS Certified Cloud Practitioner** – Issued by Amazon Web Services, 2024  
+- 🎓 **Coursera: Full-Stack Web Development** – Completed with Honors, 2023  
+- 💡 **Best Project Award** – "HelpFund" Crowdfunding Web App – College TechFest 2025  
+
+-->
 
 ## 📈 Contribution Graph
 <div align="center">
