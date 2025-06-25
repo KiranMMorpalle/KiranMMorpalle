@@ -70,7 +70,7 @@
 - 🎓 **Coursera: Full-Stack Web Development** – Completed with Honors, 2023  
 - 💡 **Best Project Award** – "HelpFund" Crowdfunding Web App – College TechFest 2025  
 
--->
+
 ## 🏆 Certifications
 
 [![AWS Badge](https://images.credly.com/size/110x110/images/example-aws-badge.png)](https://www.credly.com/badges/your-badge-id)
@@ -78,7 +78,7 @@
 
 [![Coursera Badge](https://coursera.org/images/example-coursera-badge.png)](https://coursera.org/verify/your-certificate-id)
 - 🎓 [Full-Stack Web Development](https://coursera.org/verify/your-certificate-id) – Coursera
-
+-->
 
 ## 📈 Contribution Graph
 <div align="center">
