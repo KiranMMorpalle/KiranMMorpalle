@@ -96,7 +96,7 @@
   <a href="https://kiranmmorpalle.dev"><img src="https://img.icons8.com/ios/30/000000/domain.png" alt="portfolio" /></a>
 </p>
 <!-- <a href="https://twitter.com/yourhandle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="twitter" /></a> -->
----
+
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
